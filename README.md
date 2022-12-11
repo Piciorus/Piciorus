@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Typescript<br>React<br>CSS & HTML<br>Bootstrap<br>Java<br>C++<br>Firebase<br>SQL</p>
+<p align="left">Typescript<br>React<br>CSS & HTML<br>Tailwind CSS<br>Java<br>C++<br>Firebase<br>SQL</p>
 
 ###
 
