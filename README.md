@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Typescript<br>React<br>CSS & HTML<br>Tailwind CSS<br>Java<br>C++<br>Firebase<br>SQL</p>
+<p align="left">Typescript<br>React<br>CSS & HTML<br>Tailwind CSS<br>Java<br>C++<br>Firebase<br>SQL<br>Spring Boot<br></p>
 
 ###
 
@@ -18,6 +18,6 @@
 
 ###
 
-<p align="left">Spring boot</p>
+<p align="left">Angular</p>
 
 ###
